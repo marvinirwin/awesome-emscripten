@@ -8,6 +8,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 - [Ultimate DOOM](https://github.com/marvinirwin/wasm-doom)
 - [Gifsicle](https://github.com/marvinirwin/gifsicle-wasm)
+- [Curses (compiles, but doesnt work)](https://github.com/ilyaigpetrov/ncurses-for-emscripten)
 
 ## License
 

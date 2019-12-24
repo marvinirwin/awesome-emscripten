@@ -7,6 +7,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Ports
 
 - [Ultimate DOOM](https://github.com/marvinirwin/wasm-doom)
+- [Gifsicle](https://github.com/marvinirwin/gifsicle-wasm)
 
 ## License
 
